@@ -1,0 +1,6 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.sourcegraph</groupId>
+  <artifactId>java-7-app</artifactId>
+  <version>1</version>
+</project>
